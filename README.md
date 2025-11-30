@@ -7,6 +7,7 @@ output1:
 <img width="604" height="464" alt="image" src="https://github.com/user-attachments/assets/6c74b905-8097-4d5e-a94b-183bc1ba6eed" />
 
 input2: url: http://localhost:8080/api/v1/price
+
 <img width="634" height="364" alt="image" src="https://github.com/user-attachments/assets/2126ca88-fb67-4361-9b87-8481bfc3009d" />
 
 output2:
