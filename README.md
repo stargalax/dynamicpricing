@@ -1,3 +1,7 @@
+## architecture diagram
+<img width="1429" height="998" alt="image" src="https://github.com/user-attachments/assets/e7ed7122-af81-4a2d-90fd-3b291ce88e0a" />
+
+
 ## outputs
 input1: url:http://localhost:8080/api/v1/price/breakdown
 <img width="776" height="440" alt="image" src="https://github.com/user-attachments/assets/951df67d-f06e-46b4-9018-a60fdc8a65d8" />
